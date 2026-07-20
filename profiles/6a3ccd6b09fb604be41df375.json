@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1784514580
+        "UpdateTime": 1784516610
       },
       "Inventory": {
         "items": [
@@ -550,7 +550,7 @@
               "isSearched": true
             },
             "upd": {
-              "StackObjectsCount": 437209
+              "StackObjectsCount": 337209
             }
           },
           {
@@ -7769,23 +7769,6 @@
             }
           },
           {
-            "_id": "6a5b1a0b28963b06d02e9877",
-            "_tpl": "590a3c0a86f774385a33c450",
-            "parentId": "6a3cd84009fb604be4208e17",
-            "slotId": "main",
-            "location": {
-              "x": 1,
-              "y": 4,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "6a5b1a657ac0235d74000000",
             "_tpl": "6662ea05f6259762c56f3189",
             "parentId": "664115f68b8ae85875060b39",
@@ -9404,9 +9387,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1783563767,
+            "LastAccess": 1784516096,
             "Id": "HideoutManagement",
-            "Progress": 510
+            "Progress": 530
           }
         ],
         "Mastering": [
@@ -13068,7 +13051,7 @@
           },
           {
             "type": 4,
-            "level": 0,
+            "level": 1,
             "active": false,
             "passiveBonusesEnabled": true,
             "completeTime": 0,
@@ -13519,7 +13502,7 @@
         "HideoutCounters": null,
         "Seed": "bae4856d79f5139bb45d0d2f611078ab",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784515242,
+        "sptUpdateLastRunTimestamp": 1784517449,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -15109,6 +15092,19 @@
           "type": "TextBonus",
           "value": 0,
           "icon": "/files/Hideout/icon_hideout_createitem_meds.png"
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756b4",
+          "type": "AdditionalSlots",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 2,
+          "icon": "/files/Hideout/icon_hideout_fuelslots.png",
+          "filter": [
+            "5d1b371186f774253763a656",
+            "5d1b36a186f7742523398433"
+          ]
         }
       ],
       "Notes": {
@@ -15122,7 +15118,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1747846274,
+        "nextResetTime": 1748019074,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
