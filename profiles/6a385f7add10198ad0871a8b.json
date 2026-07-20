@@ -78,7 +78,7 @@
             },
             "Effects": {
               "MildMusclePain": {
-                "Time": 5979.58
+                "Time": 3486.58
               }
             }
           },
@@ -121,7 +121,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1784516646
+        "UpdateTime": 1784519139
       },
       "Inventory": {
         "items": [
@@ -22856,17 +22856,6 @@
             }
           },
           {
-            "_id": "6a5d28fc3bf18b31f41bc278",
-            "_tpl": "5c0e531286f7747fa54205c2",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
-              "y": 8,
-              "r": "Horizontal"
-            }
-          },
-          {
             "_id": "6a4f126a446c1c71a415fb23",
             "_tpl": "59fafd4b86f7745ca07e1232",
             "parentId": "6a3c7e720ec8414e9436f020",
@@ -23594,24 +23583,7 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 2,
-              "y": 16,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "6a5d7a29208b516098708ccd",
-            "_tpl": "5b43575a86f77424f443fe62",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 5,
+              "x": 6,
               "y": 14,
               "r": "Horizontal"
             },
@@ -23741,23 +23713,6 @@
             }
           },
           {
-            "_id": "6a5d7a29208b516098708c35",
-            "_tpl": "59e36c6f86f774176c10a2a7",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 15,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "6a5d7a61208b51609870a719",
             "_tpl": "60b0f6c058e0b0481a09ad11",
             "parentId": "664115f68b8ae85875060b39",
@@ -23789,29 +23744,12 @@
             }
           },
           {
-            "_id": "6a5d7a29208b516098708c8f",
-            "_tpl": "59e36c6f86f774176c10a2a7",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 0,
-              "y": 16,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Resource": {
-                "Value": 0
-              }
-            }
-          },
-          {
             "_id": "6a5d7a2a208b516098709824",
             "_tpl": "5e2af47786f7746d404f3aaa",
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 5,
+              "x": 0,
               "y": 16,
               "r": "Horizontal"
             },
@@ -23862,8 +23800,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 7,
-              "y": 16,
+              "x": 9,
+              "y": 14,
               "r": "Horizontal"
             },
             "upd": {
@@ -23913,38 +23851,14 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 16,
+              "x": 7,
+              "y": 15,
               "r": "Horizontal"
             },
             "upd": {
               "SpawnedInSession": true,
               "Resource": {
                 "Value": 0
-              }
-            }
-          },
-          {
-            "_id": "6a5d7a29208b5160987090a4",
-            "_tpl": "35adebfd2014a2861056138b",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 8,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true,
-              "Sight": {
-                "ScopesCurrentCalibPointIndexes": [
-                  0
-                ],
-                "ScopesSelectedModes": [
-                  0
-                ],
-                "SelectedScope": 0,
-                "ScopeZoomValue": 0
               }
             }
           },
@@ -24188,11 +24102,11 @@
           {
             "_id": "6a5d7a29208b516098709334",
             "_tpl": "57347c2e24597744902c94a1",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "6a3cbacc7fbc026368812eaa",
+            "slotId": "main",
             "location": {
-              "x": 6,
-              "y": 14,
+              "x": 12,
+              "y": 11,
               "r": "Horizontal"
             },
             "upd": {
@@ -24239,8 +24153,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 4,
-              "y": 15,
+              "x": 7,
+              "y": 14,
               "r": "Horizontal"
             },
             "upd": {
@@ -25656,7 +25570,35 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 795921
+              "StackObjectsCount": 1000000
+            }
+          },
+          {
+            "_id": "6a5d94c273b5f544fc02f367",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "6a4431214e9c2a150cd6c4de",
+            "slotId": "main",
+            "location": {
+              "x": 5,
+              "y": 4,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 91251
+            }
+          },
+          {
+            "_id": "6a5d94e073b5f544fc02f376",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 8,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 119990
             }
           }
         ],
@@ -34051,7 +33993,7 @@
         "Production": {
           "600a9fb7ba91d953182d6a1c": {
             "Products": [],
-            "Progress": 33386,
+            "Progress": 35579,
             "inProgress": true,
             "StartTimestamp": 1784484070,
             "SkipTime": 0,
@@ -34077,7 +34019,7 @@
           },
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 33627,
+            "Progress": 35820,
             "inProgress": true,
             "StartTimestamp": 1784483823,
             "SkipTime": 0,
@@ -34231,8 +34173,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 58.2764,
-                        "UnitsConsumed": 1.7236
+                        "Value": 55.5316,
+                        "UnitsConsumed": 4.4684
                       }
                     }
                   }
@@ -34730,7 +34672,7 @@
         "HideoutCounters": null,
         "Seed": "a594762c9a458e655c1d69d8119f6292",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784517449,
+        "sptUpdateLastRunTimestamp": 1784519642,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -37285,7 +37227,7 @@
         "unlockedProductionRecipe": []
       },
       "RagfairInfo": {
-        "rating": 33.658738066666594,
+        "rating": 33.73693706666659,
         "isRatingGrowing": true,
         "offers": [
           {
@@ -37449,7 +37391,7 @@
             "quantity": 1
           }
         ],
-        "sellSum": 186408691,
+        "sellSum": 186859681,
         "notSellSum": 4414606
       },
       "Achievements": {
@@ -62336,6 +62278,76 @@
             "data": []
           },
           "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d94c273b5f544fc02f365",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784517826,
+          "text": "Your SJ1 TGLabs combat stimulant injector 1 items were bought by Randomizzatore.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d94c273b5f544fc02f366",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d94cc73b5f544fc02f36a",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784517836,
+          "text": "Your Leupold LCO reflex sight 1 items were bought by TimmyGG.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d94cc73b5f544fc02f36b",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d94d673b5f544fc02f36f",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784517846,
+          "text": "Your Fuel conditioner 1 items were bought by itsMickle.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d94d673b5f544fc02f370",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d94e073b5f544fc02f374",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784517856,
+          "text": "Your Power cord 1 items were bought by numberdjester.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d94e073b5f544fc02f375",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d94ea73b5f544fc02f378",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784517866,
+          "text": "Your Power cord 1 items were bought by Aethas.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d94ea73b5f544fc02f379",
+            "data": []
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "5ac3b934156ae10c4430e83c"
@@ -63576,6 +63588,13 @@
         "author": "GhostFenixx",
         "dateAdded": 1782187835,
         "url": "https://github.com/GhostFenixx"
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1784519139,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
       }
     ],
     "receivedGifts": [
