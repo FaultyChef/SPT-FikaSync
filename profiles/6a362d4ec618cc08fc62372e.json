@@ -63,7 +63,7 @@
           "Maximum": 100
         },
         "Energy": {
-          "Current": 98,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1784514742
+        "UpdateTime": 1784516516
       },
       "Inventory": {
         "items": [
@@ -16395,11 +16395,11 @@
           {
             "_id": "6a5d50203bf18b31f423b2c8",
             "_tpl": "5e01ef6886f77445f643baa4",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "6a5d54d53bf18b31f42487dd",
+            "slotId": "3",
             "location": {
-              "x": 6,
-              "y": 56,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             }
           },
@@ -16501,7 +16501,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 42599
+              "StackObjectsCount": 477460
             }
           },
           {
@@ -16565,42 +16565,13 @@
             }
           },
           {
-            "_id": "6a5d8659208b516098743675",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 16,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 334322
-            }
-          },
-          {
             "_id": "6a5d86b5208b516098746290",
             "_tpl": "5780cfa52459777dfb276eb1",
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
               "x": 7,
-              "y": 17,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1,
-              "SpawnedInSession": true
-            }
-          },
-          {
-            "_id": "6a5d86c5208b51609874643d",
-            "_tpl": "5f5f41f56760b4138443b352",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 18,
+              "y": 16,
               "r": "Horizontal"
             },
             "upd": {
@@ -23373,12 +23344,6 @@
           "value": 0,
           "sourceId": "638fcd23dc65553116701d33"
         },
-        "6a5b19bf28963b06d02e88e1": {
-          "id": "6a5b19bf28963b06d02e88e1",
-          "type": "CounterCreator",
-          "value": 19,
-          "sourceId": "6a5b19bf28963b06d02e88dd"
-        },
         "5d27446f86f77475a86565a3": {
           "id": "5d27446f86f77475a86565a3",
           "type": "HandoverItem",
@@ -23439,12 +23404,6 @@
           "value": 0,
           "sourceId": "5b4794cb86f774598100d5d4"
         },
-        "6a5c57249072065bc077b4f9": {
-          "id": "6a5c57249072065bc077b4f9",
-          "type": "HandoverItem",
-          "value": 2,
-          "sourceId": "6a5c57249072065bc077b4f7"
-        },
         "5a68763786f77474c33a40a1": {
           "id": "5a68763786f77474c33a40a1",
           "type": "HandoverItem",
@@ -23486,18 +23445,6 @@
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "686dd4f871840e292fbd1a14"
-        },
-        "6a5c580d9072065bc077d357": {
-          "id": "6a5c580d9072065bc077d357",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a5c580d9072065bc077d352"
-        },
-        "6a5c38b19072065bc0722ca8": {
-          "id": "6a5c38b19072065bc0722ca8",
-          "type": "HandoverItem",
-          "value": 1,
-          "sourceId": "6a5c38b19072065bc0722ca6"
         },
         "5979fc7e86f77426d702a0f4": {
           "id": "5979fc7e86f77426d702a0f4",
@@ -23624,12 +23571,6 @@
           "type": "HandoverItem",
           "value": 1,
           "sourceId": "5d4bec3486f7743cac246665"
-        },
-        "6a5d36243bf18b31f41ea6c0": {
-          "id": "6a5d36243bf18b31f41ea6c0",
-          "type": "HandoverItem",
-          "value": 0,
-          "sourceId": "6a5d36243bf18b31f41ea6be"
         }
       },
       "InsuredItems": [
@@ -24112,8 +24053,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 23.7808,
-                        "UnitsConsumed": 6.2192
+                        "Value": 20.3827,
+                        "UnitsConsumed": 9.6173
                       }
                     }
                   }
@@ -24570,7 +24511,7 @@
         "HideoutCounters": null,
         "Seed": "6e43a3707168002ed793d333901339ab",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784515242,
+        "sptUpdateLastRunTimestamp": 1784517449,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -26474,7 +26415,7 @@
         "unlockedProductionRecipe": []
       },
       "RagfairInfo": {
-        "rating": 11.876063999999998,
+        "rating": 11.887719999999998,
         "isRatingGrowing": true,
         "offers": [
           {
@@ -26638,7 +26579,7 @@
             "quantity": 1
           }
         ],
-        "sellSum": 65567223,
+        "sellSum": 65625503,
         "notSellSum": 1310900
       },
       "Achievements": {
@@ -40619,8 +40560,8 @@
       "_id": "5935c25fb3acc3127c3d8cd9"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 1,
-      "new": 15,
+      "attachmentsNew": 0,
+      "new": 1,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -49415,21 +49356,25 @@
           "type": 13,
           "dt": 1784514338,
           "text": "Your MSA ACH TC-2002 MICH Series helmet (Olive Drab) 1 items were bought by Sarix.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6a5d8722208b516098748545",
-            "data": [
-              {
-                "_id": "6a5d8722208b516098748546",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "6a5d8722208b516098748545",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 46986
-                }
-              }
-            ]
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a5d8bd4bc3bcb571c605d05",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1784515540,
+          "text": "Your Direct Action Thunderbolt compact chest rig (Shadow Grey) 1 items were bought by ALameLlama.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a5d8bd4bc3bcb571c605d06",
+            "data": []
           },
           "maxStorageTime": 259200
         }
