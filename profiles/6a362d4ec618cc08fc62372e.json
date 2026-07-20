@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1784516516
+        "UpdateTime": 1784519060
       },
       "Inventory": {
         "items": [
@@ -16893,9 +16893,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1784446595,
+            "LastAccess": 1784517705,
             "Id": "HideoutManagement",
-            "Progress": 788.999939
+            "Progress": 789.999939
           }
         ],
         "Mastering": [
@@ -24053,8 +24053,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 20.3827,
-                        "UnitsConsumed": 9.6173
+                        "Value": 17.0076,
+                        "UnitsConsumed": 2.9924
                       }
                     }
                   }
@@ -24511,7 +24511,7 @@
         "HideoutCounters": null,
         "Seed": "6e43a3707168002ed793d333901339ab",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784517449,
+        "sptUpdateLastRunTimestamp": 1784519642,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -26513,7 +26513,7 @@
               }
             ],
             "root": "6a5d12bd3bf18b31f41599fd",
-            "intId": 200,
+            "intId": 872,
             "itemsCost": 45200,
             "requirementsCost": 338880,
             "startTime": 1784486646,
@@ -49695,6 +49695,13 @@
         "version": "4.0.8",
         "author": "EpicRangeTime",
         "dateAdded": 1782355105
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1784518918,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
       }
     ],
     "receivedGifts": [
