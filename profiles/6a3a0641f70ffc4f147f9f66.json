@@ -120,7 +120,7 @@
             }
           }
         },
-        "UpdateTime": 1784517131
+        "UpdateTime": 1784519241
       },
       "Inventory": {
         "items": [
@@ -22560,7 +22560,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 4709,
+            "Progress": 6902,
             "inProgress": true,
             "StartTimestamp": 1784512744,
             "SkipTime": 0,
@@ -23093,8 +23093,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 5.4623,
-                        "UnitsConsumed": 4.5377
+                        "Value": 2.6989,
+                        "UnitsConsumed": 7.3011
                       }
                     }
                   }
@@ -23546,7 +23546,7 @@
         "HideoutCounters": null,
         "Seed": "a9faec46a1db0dcd43ac4d681cae2b2a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1784517449,
+        "sptUpdateLastRunTimestamp": 1784519642,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -47185,6 +47185,13 @@
         "author": "GhostFenixx",
         "dateAdded": 1782204985,
         "url": "https://github.com/GhostFenixx"
+      },
+      {
+        "name": "server",
+        "version": "2.3.5",
+        "author": "Fika",
+        "dateAdded": 1784519241,
+        "url": "https://github.com/project-fika/Fika-Server-CSharp"
       }
     ],
     "receivedGifts": [
@@ -47684,12 +47691,7 @@
     "54cb57776803fa99248b456e": {},
     "58330581ace78e27b8b10cee": {},
     "5c0647fdd443bc2504c2d371": {},
-    "5935c25fb3acc3127c3d8cd9": {
-      "686e344a6c2a18ed6b0ea2a2": {
-        "count": 5,
-        "purchaseTimestamp": 1784512735
-      }
-    },
+    "5935c25fb3acc3127c3d8cd9": {},
     "54cb50c76803fa8b248b4571": {
       "686e34656c2a18ed6b0eadb2": {
         "count": 1,
